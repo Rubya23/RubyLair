@@ -157,8 +157,7 @@ let galleryCards = document.querySelector('#fullGallery')
 for (let i = 0; i < fullPicGallery.length && i !== 50; i++) {
     galleryCards.innerHTML += ('<button id="galCardButton" onclick="fullScreen(' + i + ')">') +
         ('<img id="galCardPic" loading="lazy" src="' + fullPicGallery[i].picLink + '" alt="">') +
-        ('</button>') +
-        ('<p>' + fullPicGallery[i].tags[1] + '</p>')
+        ('</button>')
     //console.log(i)
 }
 let texxxt = document.querySelector('#input')
@@ -176,6 +175,7 @@ function sayInput() {
 
     else { console.log(texxxt.value) }
 }
+
 
 
 
