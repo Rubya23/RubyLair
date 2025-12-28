@@ -117,5 +117,8 @@ fullPicGallery = [
     { 'picLink': 'https://wimg.rule34.xxx//images/1184/88ef9102cc8fa0c446f38f885c0cac9b.jpeg?10934378', 'sourceLink': 'https://rule34.xxx/index.php?page=post&s=view&id=10934378&tags=dmitrys+', 'artistLink': 'https://rule34.xxx/index.php?page=post&s=list&tags=dmitrys', 'tags': ['dmitrys', '111'], },
     { 'picLink': 'https://rule34.xxx//samples/2970/sample_90cc437b15ec8d383869bd3636baa5a5.jpg?14080838', 'sourceLink': 'https://rule34.xxx/index.php?page=post&s=view&id=14080838&tags=dmitrys', 'artistLink': 'https://rule34.xxx/index.php?page=post&s=list&tags=dmitrys', 'tags': ['dmitrys', '112'], },
     { 'picLink': 'https://rule34.xxx//samples/1224/sample_32a8472ac9ac800c8813e3a36fa70c21.jpg?15159740', 'sourceLink': 'https://rule34.xxx/index.php?page=post&s=view&id=15159740&tags=ilfb', 'artistLink': 'https://rule34.xxx/index.php?page=post&s=list&tags=ilfb', 'tags': ['ilfb', '113'], },
+    { 'picLink': 'https://rule34.xxx//samples/3983/sample_bf0b76d0562d74c0823be668b33cf671.jpg?15926271', 'sourceLink': 'https://rule34.xxx/index.php?page=post&s=view&id=15926271&tags=jaja_ai+', 'artistLink': 'https://rule34.xxx/index.php?page=post&s=list&tags=jaja_ai+', 'tags': ['jaja_ai', '113'], },
+    { 'picLink': 'https://rule34.xxx//samples/1428/sample_f934754783b5645a2afb9962df692768.jpg?15951553', 'sourceLink': 'https://rule34.xxx/index.php?page=post&s=view&id=15951553&tags=jaja_ai+', 'artistLink': 'https://rule34.xxx/index.php?page=post&s=list&tags=jaja_ai+', 'tags': ['jaja_ai', '113'], },
+
 
 ]
